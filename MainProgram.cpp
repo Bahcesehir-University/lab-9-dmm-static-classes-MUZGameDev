@@ -203,14 +203,12 @@ int IntArray::get(int index) const {
 int IntArray::size() const {
     // TODO 12: Return count
     return count;
-    return 0;
 }
 
 // Capacity
 int IntArray::getCapacity() const {
     // TODO 13: Return capacity
     return capacity;
-    return 0;
 }
 
 // isEmpty
